@@ -2,5 +2,3 @@
   line 2
 
   asdfdasf
-  张中海
-asdfasdf
